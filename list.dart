@@ -7,6 +7,7 @@ import 'dart:io';
    List(){
      print("Class of List connected sucwessfully");
    }
+
   dynamic add_list(var ls1 , var element){
     ls1.add(element);
     // add a data type at the end of the list
@@ -91,5 +92,13 @@ import 'dart:io';
     //return the length of list
   }
 
+  dynamic list_empty(var ls1){
+     return ls1.isEmpty();
+     // return ture if list is empty else false
+  }
 
+  dynamic list_NotEmpty(var ls1){
+     return ls1.isNotEmpty();
+     // return ture is if list is not empty else false
+  }
 }
