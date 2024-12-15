@@ -4,6 +4,9 @@ import 'dart:io';
  }
 
  class List{
+   List(){
+     print("Class of List connected sucwessfully");
+   }
   dynamic add_list(var ls1 , var element){
     ls1.add(element);
     // add a data type at the end of the list
