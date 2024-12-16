@@ -1,16 +1,22 @@
-# first_app
+# Learn Dart Basics
 
-A new Flutter project.
+All this is about the basics of Dart for starting with flutter .
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is an introduction about Dart.
 
-A few resources to get you started if this is your first Flutter project:
+In this we learn Dart step by step
+1.Data_types
+2.variable 
+3.how to take input from user and diplay on the console
+4.if else if else
+5.loop 
+6.List(Arrays in Dart)
+7.Map (Dict or a pair of key and value )
+8.functions
+9.classes
+10 Constant and Finall 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+all these topics are covered in this repo hope u will gonna enjoy it 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
